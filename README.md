@@ -11,6 +11,42 @@ Bem-vindo ao **Lady Bot**, um bot de WhatsApp desenvolvido com amor e dedicaçã
 
 ## 🚀 Como Começar
 
+### No Termux
+
+1. **Configurar Armazenamento**:
+    ```bash
+    termux-setup-storage
+    ```
+2. **Instalar Git**:
+    ```bash
+    pkg install git
+    ```
+3. **Atualizar Pacotes**:
+    ```bash
+    pkg update
+    pkg upgrade
+    ```
+4. **Instalar Dependências**:
+    ```bash
+    pkg install ffmpeg
+    pkg install wget
+    pkg install nodejs
+    pkg install npm
+    pkg install yarn
+    ```
+5. **Clonar o Repositório**:
+    ```bash
+    git clone https://github.com/seu-usuario/lady-bot.git
+    cd lady-bot
+    yarn install
+    ```
+6. **Executar o Script de Inicialização**:
+    ```bash
+    sh start.sh
+    ```
+
+### No PC
+
 1. **Clone o Repositório**:
     ```bash
     git clone https://github.com/seu-usuario/lady-bot.git
