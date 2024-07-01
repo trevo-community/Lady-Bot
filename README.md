@@ -1,3 +1,11 @@
+![Lady Bot](https://telegra.ph/file/6302cc713f96d3160d799.png)
+
+<div align="center">
+  <h1 style="color:#ff69b4; font-family:'Courier New', Courier, monospace;">
+    <marquee>Lady Bot</marquee>
+  </h1>
+</div>
+
 # 🐞 Lady Bot 🐞
 
 Bem-vindo ao **Lady Bot**, um bot de WhatsApp desenvolvido com amor e dedicação, utilizando a poderosa API de WhatsApp [whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys). Este bot é projetado para trazer eficiência e diversão ao seu WhatsApp, com funcionalidades variadas e personalizáveis. 🌟
