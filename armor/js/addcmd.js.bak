@@ -1,6 +1,6 @@
 const fs = require("fs")
 
-const comandos = JSON.parse(fs.readFileSync("./armor/comandos.json"))
+const comandos = JSON.parse(fs.readFileSync("./arrmor/comandos.json"))
 
 const addComandosId = (from) => { 
 const obj = { groupId : from, comandos:[]};
