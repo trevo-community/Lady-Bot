@@ -43,7 +43,7 @@ Bem-vindo ao **Lady Bot**, um bot de WhatsApp desenvolvido com amor e dedicaçã
 5. **Clonar o Repositório**:
     ```bash
     cd /sdcard/
-    git clone https://github.com/seu-usuario/lady-bot.git
+    git clone https://github.com/trevo-community/lady-bot.git
     cd lady-bot
     yarn install
     ```
@@ -56,7 +56,7 @@ Bem-vindo ao **Lady Bot**, um bot de WhatsApp desenvolvido com amor e dedicaçã
 
 1. **Clone o Repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/lady-bot.git
+    git clone https://github.com/trevo-community/Lady-Bot.git
     ```
 2. **Instale as Dependências**:
     ```bash
