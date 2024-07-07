@@ -72,7 +72,7 @@ Bem-vindo ao **Lady Bot**, um bot de WhatsApp desenvolvido com amor e dedicaçã
 
 ## 📚 Documentação
 
-Para mais detalhes sobre a configuração e uso do Lady Bot, confira nossa [documentação](https://ladybot.netlify.app/).
+Para mais detalhes sobre a configuração e uso do Lady Bot, confira nossa [documentação](https://anikit-apis.onrender.com/).
 
 ## 🐞 Contribuições
 
