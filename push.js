@@ -90,24 +90,24 @@ const rgp = JSON.parse(fs.readFileSync("./armor/json/TMGP.json"));
 const sotoy = JSON.parse(fs.readFileSync("./armor/json/sotoy.json"));
 
 try {
-var countMessage = JSON.parse(fs.readFileSync("./DADOS/countmsg.json"));
+var countMessage = JSON.parse(fs.readFileSync("./armor/countmsg.json"));
 } catch {
-fs.writeFileSync("./DADOS/countmsg.json", JSON.stringify([]));
+fs.writeFileSync("./armor/countmsg.json", JSON.stringify([]));
 }
 
-const comandos = JSON.parse(fs.readFileSync("./DADOS/comandos.json"));
+const comandos = JSON.parse(fs.readFileSync("./armor/comandos.json"));
 
 const daily = JSON.parse(fs.readFileSync("./datab/usuarios/diario.json"));
 
 const nescessario = JSON.parse(fs.readFileSync("./dono/nescessario.json"));
 
-const premium = JSON.parse(fs.readFileSync("./DADOS/premium.json"));
+const premium = JSON.parse(fs.readFileSync("./armor/premium.json"));
 
 const ban = JSON.parse(fs.readFileSync("./datab/usuarios/banned.json"));
 
 const limitefll = JSON.parse(fs.readFileSync("./datab/usuarios/flood.json"));
 
-const patentes = JSON.parse(fs.readFileSync("./DADOS/patentes.json"));
+const patentes = JSON.parse(fs.readFileSync("./armor/patentes.json"));
 
 const antispam = JSON.parse(fs.readFileSync("./dono/media/antispam.json"));
 
@@ -117,7 +117,7 @@ const anotar = JSON.parse(fs.readFileSync("./armor/json/anotar.json"));
 
 const setting = JSON.parse(fs.readFileSync("./dono.json"));
 
-const logoslink = JSON.parse(fs.readFileSync("./DADOS/logos.json"));
+const logoslink = JSON.parse(fs.readFileSync("./armor/logos.json"));
 
 const black_ = JSON.parse(fs.readFileSync("./datab/grupos/AVISOS.json"));
 

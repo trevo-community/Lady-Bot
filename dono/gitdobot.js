@@ -1,6 +1,6 @@
 const gitdobot = (prefix) => {
 return`
-https://github.com/trevo-community/Lady-Bot/
+youtube.com/@clovermyt
 `;
 };
 
