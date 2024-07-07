@@ -42,6 +42,7 @@ Bem-vindo ao **Lady Bot**, um bot de WhatsApp desenvolvido com amor e dedicaçã
     ```
 5. **Clonar o Repositório**:
     ```bash
+    cd /sdcard/
     git clone https://github.com/seu-usuario/lady-bot.git
     cd lady-bot
     yarn install
