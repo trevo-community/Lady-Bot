@@ -80,6 +80,69 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ║
 ╚════• 〘V3.0.0〙
 ╭──────────────⊣
+│ INFO - IMAGENS COMUNS
+├────────────
+╠🐞➽ ${prefix}cosplay
+╠🐞➽ {prefix} waifu
+╠🐞➽ ${prefix}waifu2
+╠🐞➽ ${prefix}shota
+╠🐞➽ ${prefix}loli
+╠🐞➽ ${prefix}yotsuba
+╠🐞➽ ${prefix} shinomiya
+╠🐞➽ ${prefix}yumeko
+╠🐞➽ ${prefix} tejina
+╠🐞➽ ${prefix}chiho
+╠🐞➽ ${prefix}shizuka
+╠🐞➽ ${prefix}boruto
+╠🐞➽ ${prefix}kagori
+╠🐞➽ ${prefix}kaga
+╠🐞➽ ${prefix}kotori
+╠🐞➽ ${prefix}mikasa
+╠🐞➽ ${prefix}akiyama
+╠🐞➽ ${prefix}hinata
+╠🐞➽ ${prefix}minato
+╠🐞➽ ${prefix}naruto
+╠🐞➽ ${prefix}nezuko
+╠🐞➽ ${prefix}yuki
+╠🐞➽ ${prefix}hestia
+╠🐞➽ ${prefix}emilia
+╠🐞➽ ${prefix}itachi
+╠🐞➽ ${prefix}elaina
+╠🐞➽ ${prefix}madara
+╠🐞➽ ${prefix}sasuke
+╠🐞➽ ${prefix}deidara
+╠🐞➽ ${prefix}sakura
+╠🐞➽ ${prefix}tsunade
+╚════• 〘V3.0.0〙
+╭──────────────⊣
+│ INFO - IMAGENS NSFW
+├────────────
+╠🐞➽ ${prefix}ahegao
+╠🐞➽ ${prefix}ass
+╠🐞➽ ${prefix}bdsm
+╠🐞➽ ${prefix}blowjob
+╠🐞➽ ${prefix}cuckold
+╠🐞➽ ${prefix}cum
+╠🐞➽ ${prefix}ero
+╠🐞➽ ${prefix}kasedaiki
+╠🐞➽ ${prefix}femdom
+╠🐞➽ ${prefix}foot
+╠🐞➽ ${prefix}gangbang
+╠🐞➽ ${prefix}glasses
+╠🐞➽ ${prefix}jahy
+╠🐞➽ ${prefix}manga
+╠🐞➽ ${prefix}masturbation
+╠🐞➽ ${prefix}neko
+╠🐞➽ ${prefix}orgy
+╠🐞➽ ${prefix}panties
+╠🐞➽ ${prefix}pussy
+╠🐞➽ ${prefix}neko2
+╠🐞➽ ${prefix}tentacles
+╠🐞➽ ${prefix}thighs
+╠🐞➽ ${prefix}yuri
+╠🐞➽ ${prefix}zettai
+╚════• 〘V3.0.0〙
+╭──────────────⊣
 │ INFO - DONO - ADM
 ├────────────
 ╠🐞➽ ${prefix}infoAluguel
